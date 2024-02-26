@@ -6,24 +6,6 @@
 
 A full-stack eCommerce application built with React and Spring Boot And Node Js. The project aims to provide users with a seamless online shopping experience, featuring a responsive and user-friendly interface, a wide range of products, and secure payment options.
 
-## Client
-###### Angular : https://github.com/developer207/ecommerce-angular
-
-## Server
-###### spring boot: https://github.com/ashok0001/e-commerce-server
-###### node js: https://github.com/ashok0001/ecommerce-node
-
-## Table of Contents
-
-- [Features](#features)
-- [Demo](#demo)
-- [Technologies Used](#technologies-used)
-- [Installation](#installation)
-- [Usage](#usage)
-- [API Endpoints](#api-endpoints)
-- [Contributing](#contributing)
-- [Screenshots](#screenshots)
-
 ## Features
 
 - User registration and authentication.
