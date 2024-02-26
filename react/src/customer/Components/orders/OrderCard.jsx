@@ -50,7 +50,7 @@ const OrderCard = ({ item, order }) => {
                 sx={{ width: "15px", height: "15px" }}
                 className="text-green-600 p-0 mr-2 text-sm"
               />
-              <span>Expected Delivery On Mar 03</span>
+              <span>Expected Delivery</span>
               </>}
             
           </p>

@@ -91,7 +91,7 @@ const RateProduct = () => {
                   sx={{ width: "15px", height: "15px" }}
                   className="text-green-600  mr-2"
                 />
-                <span>Delivered On Mar 03</span>{" "}
+                <span>Delivered</span>{" "}
               </p>
               <p className="text-xs">Your Item Has Been Delivered</p>
             </div>
